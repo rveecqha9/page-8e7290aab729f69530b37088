@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f21f03ea15de9eb5bea9988d",
+  "owner": "rveecqha9",
+  "repo": "page-8e7290aab729f69530b37088",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e7290aab729f69530b37088",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1ae8ae99555f157a37ecc6b4f360c3f9d84576b6c695ff8fedb20da9452aec07",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供优质VPN加速服务，助力用户畅享高速网络。支持流媒体解锁、游戏加速等多种功能，多种套餐任您选择。立即下载官网客户端体验！",
+          "AI_DESCRIPTION": "44F网络提供优质VPN加速服务，助力用户畅享高速网络。支持流媒体解锁、游戏加速等多种功能，多种套餐任您选择。立即下载官网客户端体验！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body {\n    font-family: system-ui, -apple-system, sans-serif;\n    background: #f8f5f2;\n    color: #333;\n    margin: 0;\n    padding: 0;\n  }\n  main {\n    max-width: 1100px;\n    margin: 0 auto;\n    padding: 20px;\n  }\n  h1 {\n    text-align: center;\n    color: #ff6b6b;\n    font-size: 2.5rem;\n    margin-bottom: 20px;\n  }\n  h2 {\n    color: #ff6b6b;\n    font-size: 1.8rem;\n    margin-bottom: 15px;\n  }\n  p {\n    margin-bottom: 15px;\n    font-size: 1.05rem;\n  }\n  ul, ol {\n    padding-left: 20px;\n  }\n  .stagger-section {\n    padding: 30px 20px;\n    margin: 30px 0;\n    border-radius: 8px;\n  }\n  .stagger-section:nth-child(odd) {\n    background-color: #f8f5f2;\n  }\n  .stagger-section:nth-child(even) {\n    background-color: #ffffff;\n  }\n  .two-column {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 30px;\n  }\n  .two-column > div {\n    flex: 1;\n    min-width: 300px;\n  }\n  .two-column .content {\n    padding: 20px;\n  }\n  .two-column .features {\n    background-color: #fff;\n    padding: 20px;\n  }\n  details {\n    margin-bottom: 15px;\n    border: 1px solid #ffcccb;\n    border-radius: 6px;\n    padding: 10px;\n  }\n  summary {\n    font-weight: bold;\n    color: #ff6b6b;\n    cursor: pointer;\n  }\n  .plans-grid {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n    gap: 20px;\n  }\n</style>\n\n\n<main>\n  <h1>44F网络</h1>\n  <section class=\"stagger-section two-column\">\n    <div class=\"content\">\n      <h2>品牌简介</h2>\n      <p>44F网络是一款专业的网络加速工具，致力于为全球用户提供稳定且高速的VPN服务。无论您是需要解锁流媒体、加速网络游戏，还是安全浏览互联网，都能通过我们的服务获得最佳体验。我们拥有丰富的节点池和多种套餐选择，满足不同用户的需求。</p>\n    </div>\n    <div class=\"features\">\n      <h2>使用场景</h2>\n      <ul>\n        <li>流媒体解锁</li>\n        <li>游戏加速优化</li>\n        <li>日常网络加速</li>\n        <li>企业网络定制</li>\n      </ul>\n    </div>\n  </section>\n  <section class=\"stagger-section two-column\">\n    <div class=\"content\">\n      <h2>操作说明</h2>\n      <ol>\n        <li>访问官网下载客户端软件</li>\n        <li>注册账号并选择合适的套餐</li>\n        <li>配置节点信息，选择加速线路</li>\n        <li>一键连接，即可享受加速网络</li>\n      </ol>\n    </div>\n    <div class=\"features\">\n      <h2>套餐选择</h2>\n      {{PLANS_HTML}}\n    </div>\n  </section>\n  <section class=\"stagger-section two-column\">\n    <div class=\"content\">\n      {{CLIENTS_HTML}}\n    </div>\n    <div class=\"features\">\n      <h2>常见问题</h2>\n      <details>\n        <summary>44F网络是什么？</summary>\n        <p>44F网络是一款专业的VPN网络加速服务，提供高速稳定线路，帮助用户畅享无障碍网络体验。</p>\n      </details>\n      <details>\n        <summary>支持哪些设备？</summary>\n        <p>支持3台至20台设备同时在线，具体取决于您选择的套餐版本。</p>\n      </details>\n      <details>\n        <summary>如何选择套餐？</summary>\n        <p>基础版适合个人使用，旗舰版适合重度用户，团队版适合企业用户。</p>\n      </details>\n      <details>\n        <summary>节点分布情况如何？</summary>\n        <p>我们拥有全球多地节点，提供多种线路选择，包括普通线路和专线优化。</p>\n      </details>\n      <details>\n        <summary>售后支持如何？</summary>\n        <p>旗舰版及以上版本提供7x24优先工单支持，专业团队在线解答问题。</p>\n      </details>\n    </div>\n  </section>\n</main>\n\n",
+          "hash": "21715ac8890fbcab4f592e8d7b729cf97d302f58eba731af4153d2f1937773a8",
+          "seo": {
+            "title": "44F网络 - 高速VPN网络加速器 | 机场订阅与客户端下载",
+            "keywords": "44F网络, VPN, 机场, 加速器, 客户端下载, 网络加速",
+            "description": "44F网络提供优质VPN加速服务，助力用户畅享高速网络。支持流媒体解锁、游戏加速等多种功能，多种套餐任您选择。立即下载官网客户端体验！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "d807c4.cn",
+    "host": "b.d807c4.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "d807c4.cn",
+      "url": "https://d807c4.cn/",
+      "label": "可乐云(Kelecloud)",
+      "apex": "d807c4.cn",
+      "kind": null,
+      "identity": "sdbqgfqxrnn/page-412acf52791e53bf51175686"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "13ef4b90e6ce1d5cbc1eb7aa11a5c14a950f5f5c1499f3a955c8bbddd6cfbe40",
+    "sitemap.xml": "34ea12a7053b3579ace4afbdccd988094a6149f79629f4b0fa854688b28b2937",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb855a77410200cdec7ab7ebe1f2ff96329bb85fab9510c653e23d28d2ad3f79",
+    "robots.txt": "d78168dab89fc7bf505d2e1770a5c58f675c083e6c4b26250cb848e5db9548e7",
+    "9fab5a67ebb5c8967d90a582d6b7acdc.txt": "2c50a54ef08060b02f4974cd661defc348e7f6ef2bd236e295cae75942644c82"
+  },
+  "revision": "124f52bc6e1113c8494e55de59a8b060192682a7fe07f572c9cc3672037874ad"
+}
